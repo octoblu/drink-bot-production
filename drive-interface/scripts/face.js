@@ -90,7 +90,7 @@ angular.module('webcamDemo', ['webcam', 'ngMaterial'] )
   var token = "85e2b4f4a37aa1b6f5f6af01c1d804c2ea4a41e7";
 
   var conn = meshblu.createConnection({
-    "server": "edison.local",
+    "server": "172.16.18.29",
     "port": 3040,
     "uuid": uuid,
     "token": token

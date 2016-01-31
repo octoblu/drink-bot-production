@@ -18467,7 +18467,7 @@
 	          null,
 	          _react2['default'].createElement(
 	            'a',
-	            { href: './drive-interface/index.html' },
+	            { href: 'https://camera.octoblu.com/drive-interface/drive-interface/index.html' },
 	            'Drive'
 	          )
 	        ),
